@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-In this subject the objective was to:
+In this course the objective was to:
 * Learn about different data structures such as: Singly Linked Lists, Doubly Linked Lists, Binary Trees, Graphs,..etc.
 * Get familiarized with different algorithms such as: Dijkstra, Binary Tree Searching, Sorting,...etc.
 * Get familiarized with Object Oriented Programming
