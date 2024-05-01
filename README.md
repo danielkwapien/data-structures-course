@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
+**Grade: 8.1**
+
 In this course the objective was to:
 * Learn about different data structures such as: Singly Linked Lists, Doubly Linked Lists, Binary Trees, Graphs,..etc.
 * Get familiarized with different algorithms such as: Dijkstra, Binary Tree Searching, Sorting,...etc.
